@@ -1,37 +1,109 @@
-## Welcome to GitHub Pages
+#<Center>邓志荣的简历</Center>
 
-You can use the [editor on GitHub](https://github.com/Gorefiend/PersonalResume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+###我是码农
+```
+🔥姓名 : 刘敏聪     🔥我是 : "男"  的
+🔥毕业于 : 广东机电    职业技术学院 🔥尽力把 : {专科} 读完了
+🔥tel : 15915735398     🔥email : gorefiend@foxmail.com
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###码农爬坑
+```
+👑 职位：iOS开发工程师 - 我算上加班时间,都有5年了
+👑 工作性质 : 全职 - 全心全意,尽职尽责 不信你看↓
+👑 到岗时间 : 一个月内 - 没办法,公司几个项目压着,想走也走不了
+👑 技术博客 ：https://github.com/Gorefiend
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gorefiend/PersonalResume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###码农生涯
+```
+菩提树网络科技有限公司 工作时间：2015.5-至今 。 开发app：
+0x01 : 通惠购 - 大型商城类App
+0x02 : 掌上菜 - 菜市场采购类商城App
+0x03 : 小菜亿碟 - 小型商城类App
+0x04 : 玉扳手 - 建筑行业人才设备信息平台App
+0x05 : OA - 办公管理类App
+0x05 : OYE.User、OYE.Carrier - 物流信息平台App
 
-### Support or Contact
+广州辰粤信息科技有限公司 工作时间：2014.7-2015.1
+负责公司网站内容的设计和制作，工作以html+css为主
+```
+###我会这些
+```
+🐵1<<0 : 0.语音搜索。即时聊天。框架封装
+     	 1.Runloop,Runtime,GCD,NSOpertation
+     	 2.ARC内存管理
+     	 3.MVC KVO KVC MVVM 单例 代理 通知 
+     	 4.复杂ui设计 实现
+     	 5.动画 贝塞尔曲线 CoreAnimation AsyncDisplay
+     	 6.Autolayout 布局 
+     	 7.了解html css 以及 iOS与js的交互
+     	 
+🐵1<<1 : 1.常年使用swift开发
+     	  2.精通Objective-C
+🐵1<<2 : 熟悉ReactiveCocoa 
+🐵1<<3 : 了解html5
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+###我做过这些
+```
+0x01：通惠购 - 大型商城类App
+     职责描述：团队开发(iOS2人) 团队维护(iOS2人)
+               *新版本开发 版本迭代 老代码维护*
+     技术要点：0. 第三方的登录和支付
+           1. 使用fmdb，coredata做数据库处理
+           2. 封装网络请求URLRequest -> 异步多网络请求回调通知封装
+           3. 动画设置 摇一摇 领红包
+           4. 百度地图定位
+           5. 表单上传图片到服务器
+           6. 异步渲染界面
+           7. app的tabbarviewcontroller是完全自定义实现
+           8. 对称加密、非对称加密封装 
+           
+           
+0x02: 掌上菜 - 菜市场采购类商城App
+     职责描述：团队开发(iOS2人) 团队维护(iOS1人)
+     			*新版本开发*
+     技术要点：1.本地推送 远程推送
+           	2.由于开发时间太短,所以尽可能的用第三方
+          	3. 封装各种样式的弹窗,复用率高
+           
+
+0x03: 小菜亿碟 - 小型商城类App
+     职责描述 ：团队开发(iOS2人) 团队维护(iOS1人)
+     			*新版本开发*
+     主要负责 行情模块 仓储物流查询发布模块
+     技术要点：1.即时聊天
+     		 	2.抢红包 		 		
+
+0x04: 玉扳手 - 建筑行业人才设备信息平台App
+     职责描述：团队开发 (前端和后台都在开发中)
+     			*新版本开发*
+     技术要点：1.日历
+     			2.我对网络框架封装了4层,保留最后的处理数据Block
+     			3.表单处理,研究新的写法,抽出DataSource层,方便做数据保存和回滚, 还有...如果新增字段,5分钟改需求
+     			4.扩展kvc,保证数据类型不匹配时不会闪退
+     			5.持续更新中...
+         
+0x05: OA - 办公管理类App
+     职责描述 ：团队开发(iOS1人) 团队维护(iOS1人)
+     			*新版本开发*
+     技术要点：1.与html的交互
+```
+
+###私玩作品 
+
+> 经常加班啊!!!哪有时间写技术博客啊!!!
+
+
+###我是好人
+* 我灰常爱编程 - 最近还抽空学习php
+* 从来不拖团队后腿 - 团队遇到困难时我有能力解决一部分
+* 我的技术应该不算落后 - 步步紧跟swift(2.0 - 3.0) 
+* 我是真的很负责任 - 坚决不挖坑
+
+
+> tips : 我会的东西远远不止上面的这么一丢丢!!!
+
