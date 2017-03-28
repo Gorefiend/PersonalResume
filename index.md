@@ -96,6 +96,7 @@
 
 > 经常加班啊!!!哪有时间写技术博客啊!!! 
 
+[二维码，条形码扫描](https://github.com/Gorefiend/Scanning.git) https://github.com/Gorefiend/Scanning.git
 
 ###我是好人
 * 我灰常爱编程 - 最近还抽空学习php
